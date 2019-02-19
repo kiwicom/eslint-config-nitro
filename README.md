@@ -4,7 +4,7 @@ Config we use in most our apps based on the **Nitro** boilerplate.
 
 ## Setup
 
-* `yarn add @kiwicom/eslint-config/nitro`
+* `yarn add @kiwicom/eslint-config-nitro`
 
 Add to your `.eslintrc`:
 
