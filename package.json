@@ -10,9 +10,14 @@
     "lint": "eslint --config index.js index.js",
     "prepare": "yarn lint"
   },
+  "devDependencies": {
+    "eslint": "^5.14.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
   "dependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.14.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-flowtype": "^3.4.2",
