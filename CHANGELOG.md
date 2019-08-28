@@ -1,6 +1,7 @@
 # Unreleased
 
 - Plugin `eslint-plugin-react-hooks` upgraded to the latest version. This is a breaking change, see: https://github.com/facebook/react/pull/16455
+- Upgraded `eslint-config-airbnb` dependency to the latest version. This is a breaking change, see: https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb/CHANGELOG.md#1800--2019-08-10
 
 # 3.1.0
 

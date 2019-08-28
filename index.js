@@ -4,6 +4,7 @@ module.exports = {
   parser: 'babel-eslint',
   extends: [
     'airbnb',
+    'airbnb/hooks',
     'prettier',
     'prettier/react',
     'prettier/flowtype',
