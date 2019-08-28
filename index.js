@@ -20,11 +20,6 @@ module.exports = {
     __: true,
   },
   rules: {
-    // Stuff without recommended rules
-    // ---
-    'react-hooks/rules-of-hooks': 'error',
-    'react-hooks/exhaustive-deps': 'error',
-
     // Stuff that really needs to be custom
     // ---
     'prettier/prettier': [
