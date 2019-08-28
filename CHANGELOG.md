@@ -1,5 +1,7 @@
 # Unreleased
 
+- Plugin `eslint-plugin-react-hooks` upgraded to the latest version. This is a breaking change, see: https://github.com/facebook/react/pull/16455
+
 # 3.1.0
 
 This project has been imported into Universe to improve maintainability. Please report any issues since it's a first release from this repository.
