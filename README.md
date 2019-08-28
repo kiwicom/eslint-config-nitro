@@ -6,7 +6,7 @@ This config assumes [Reactizer](https://oreqizer.github.io/reactizer/)-like fold
 
 ## Setup
 
-* `yarn add -D eslint @kiwicom/eslint-config-nitro`
+- `yarn add -D eslint @kiwicom/eslint-config-nitro`
 
 Add to your `.eslintrc`:
 
