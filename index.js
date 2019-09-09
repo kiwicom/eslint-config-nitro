@@ -26,7 +26,7 @@ module.exports = {
       'error',
       {
         printWidth: 100, // Flow adds code width
-        trailingComma: 'all', // C'mon, this shit is fire
+        trailingComma: 'all',
       },
     ],
     'import/order': [
