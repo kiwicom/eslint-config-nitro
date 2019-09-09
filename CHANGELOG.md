@@ -1,5 +1,7 @@
 # Unreleased
 
+- Please note: **this package is now deprecated**. Use `@kiwicom/eslint-config/nitro` located in [@kiwicom/eslint-config](https://www.npmjs.com/package/@kiwicom/eslint-config) package instead.
+
 # 4.0.0
 
 - Plugin `eslint-plugin-react-hooks` upgraded to the latest version. This is a breaking change, see: https://github.com/facebook/react/pull/16455
