@@ -4,7 +4,7 @@
   "private": false,
   "homepage": "https://github.com/kiwicom/eslint-config-nitro",
   "description": "Nitro's ESlint config",
-  "main": "index.js",
+  "main": "index",
   "repository": "git@github.com:kiwicom/eslint-config-nitro.git",
   "author": "kiwicom",
   "license": "MIT",
