@@ -1,6 +1,6 @@
 {
   "name": "@kiwicom/eslint-config-nitro",
-  "version": "4.0.2",
+  "version": "4.1.0",
   "private": false,
   "homepage": "https://github.com/kiwicom/eslint-config-nitro",
   "description": "Nitro's ESlint config",

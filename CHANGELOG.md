@@ -1,6 +1,8 @@
 # Unreleased
 
-- Please note: **this package is now deprecated**. Use `@kiwicom/eslint-config/nitro` located in [@kiwicom/eslint-config](https://www.npmjs.com/package/@kiwicom/eslint-config) package instead.
+# 4.1.0
+
+- Please note: **this package is now deprecated**. Use `@kiwicom/eslint-config/nitro` located in [@kiwicom/eslint-config](https://www.npmjs.com/package/@kiwicom/eslint-config) package instead. We do this in order to unify these configs. There should be no breaking changes - just a simple switch to a new name.
 
 # 4.0.0
 
