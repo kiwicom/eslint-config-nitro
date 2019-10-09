@@ -60,5 +60,7 @@ module.exports = {
     'react/require-default-props': 'off', // Somehow semantically wrong
     'jsx-a11y/anchor-is-valid': 'off', // Relative paths bullshit
     'import/no-named-as-default': 'off', // The fuck is wrong with it
+    'no-unused-expressions': 'off', // use flowtype/no-unused-expressions instead to allow (x: empty)
+    'flowtype/no-unused-expressions': ['error', { allowTaggedTemplates: true }],
   },
 };
