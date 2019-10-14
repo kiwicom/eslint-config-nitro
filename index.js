@@ -1,8 +1,5 @@
 // @flow strict
 
-// eslint-disable-next-line no-console
-console.warn("! Nitro Eslint config is deprecated. Use '@kiwicom/eslint-config/nitro' instead.");
-
 module.exports = {
   parser: 'babel-eslint',
   extends: [
